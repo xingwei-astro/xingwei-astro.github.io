@@ -30,7 +30,7 @@ Syllabus \n
 - Ch1 Introduction: streamline, material derivative and advection, vorticity and helicity, mass conservation
 - Ch2 Inviscid fluid: Euler equation, Bernoulli's theorem, vorticity equation, Kelvin's theorem, complex potential
 - Ch3 Viscous fluid: velocity decomposition, stress and strain, Navier-Stokes equation, vorticity equation, normalisation and Reynolds number, microscopic physics (Boltzmann equation)
-- Ch4 Applications: plane Poiseuille flow, plane Couette flow, Taylor-Couette flow, rotating flow (Taylor-Proudman theorem), accretion disk, stellar structure (Lane-Emden equation), boundary layer (Prandtl's equation and Blasius solution)
+- Ch4 Applications: plane Poiseuille flow, plane Couette flow, Taylor-Couette flow, rotating flow (Taylor-Proudman theorem), accretion disk (structure of thin disk, angular momentum transport, emmision, evolution of thin disk), stellar structure (Lane-Emden equation and polytrope), boundary layer (Prandtl's equation and Blasius solution)
 - Ch5 Gas dynamics: thermodynamics, acoustic wave, shock, blast wave, Bondi accretion
 - Ch6 Waves: surface gravity wave, internal gravity wave, inertial wave, Kelvin\/Poincare\/Rossby wave
 - Ch7 Instabilities: gravitational instability, convective instability, Kelvin-Helmholtz instability, shear flow instability
