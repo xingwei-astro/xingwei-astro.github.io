@@ -1,0 +1,49 @@
+# jemdoc: menu{MENU}{teaching.html}
+
+== Lecture list
+- Calculus, undergraduate lecture, Shanghai, fall 2017
+- Fluid Mechanics, graduate lecture, Shanghai, fall 2017-2018
+- Numerical Analysis, graduate lecture, Shanghai, fall 2018
+- Classical Mechanics, undergraduate lecture, Beijing, spring 2020-
+- Astrophysical Fluid Dynamics, graduate lecture, Beijing, spring 2021-
+
+== Information about lectures
+
+=== Classical Mechanics
+This course focuses on analytical mechanics. We start from the least action principle to derive Lagrange's equation and then derive the conservation laws from symmetry. Next we apply Lagrange's equation and conservation laws to some problems: Kepler's problem, oscillation problem, and rigid body motion. Finally we briefly introduce Hamilton's mechanics.
+
+Syllabus \n
+- Ch1 Lagrange's mechanics: calculus of variations, least action principle, Lagrange's equation, Lagrangian
+- Ch2 Conservation laws: three symmetries and conservation laws, mechanical similarity
+- Ch3 Kepler's problem: reduced mass, motion in a central field, planetary orbit, orbital stability
+- Ch4 Small oscillations: free oscillations, forced oscillations, damped oscillations, motion in a rapidly oscillating field
+- Ch5 Rigid body motion: velocity decomposition, angular momentum, kinetic energy, moment of inertia, Eulerian angles, Euler's equations, non-inertial frame
+- Ch6 Hamilton's mechanics: Hamilton's equations, Poisson brackets, canonical transformation, Liouville's Theorem, Hamilton-Jacobi equation
+
+Reference book \n
+- Mechanics, Landau and Lifshitz, any version
+
+=== Astrophysical Fluid Dynamics
+This course is an introduction to fluid dynamics and magnetohydrodynamics which are the important tools for astrophysics, e.g. accretion disk and stellar or planetary atmosphere and interior. \n
+
+Syllabus \n
+- Ch1 Introduction: streamline, material derivative and advection, vorticity and helicity, mass conservation
+- Ch2 Inviscid fluid: Euler equation, Bernoulli's theorem, vorticity equation, Kelvin's theorem, complex potential
+- Ch3 Viscous fluid: velocity decomposition, stress and strain, Navier-Stokes equation, vorticity equation, normalisation and Reynolds number, microscopic physics (Boltzmann equation)
+- Ch4 Applications: plane Poiseuille flow, plane Couette flow, Taylor-Couette flow, rotating flow (Taylor-Proudman theorem), accretion disk, stellar structure (Lane-Emden equation), boundary layer (Prandtl's equation and Blasius solution)
+- Ch5 Gas dynamics: thermodynamics, acoustic wave, shock, blast wave, Bondi accretion
+- Ch6 Waves: surface gravity wave, internal gravity wave, inertial wave, Kelvin\/Poincare\/Rossby wave
+- Ch7 Instabilities: gravitational instability, convective instability, Kelvin-Helmholtz instability, shear flow instability
+- Ch8 Turbulence: energy cascade, turbulent viscosity, scaling laws, turbulent transport in accretion disk
+- Ch9 MHD: induction equation, Alfven's theorem, Alfven wave, dynamo theory (alpha-omega dynamo)
+
+Reference books \n
+- Elementary Fluid Dynamics, Acheson, Oxford University Press, 1990 (Ch1, Ch2, Ch3)
+- Fluid Mechanics, Landau and Lifshitz, any version (Ch3, Ch8)
+- The Physics of Fluids and Plasmas, Choudhuri, Cambridge University Press, 1998 (Ch3 microscopic physics, Ch4 accretion disk, Ch5, Ch8 turbulent transport in accretion disk)
+- 恒星物理，黄润乾，中国科学技术出版社，2012 (Ch4 stellar strcuture)
+- 粘性流体力学，章梓雄和董曾南，清华大学出版社，1998 (Ch4 boundary layer)
+- Waves in Fluids, Lighthill, Cambridge University Press, 1978 (Ch6)
+- Geophysical Fluid Dynamics, Pedlosky, Springer, 1987 (Ch4 Kelvin\/Poincare\/Rossby wave)
+- Hydrodynamic and Hydromagnetic Stability, Chandrasekhar, Oxford University Press, 1961 (Ch7)
+- An Introduction to Magnetohydrodynamics, Davidson, Cambridge University Press, 2001 (Ch9)

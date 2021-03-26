@@ -1,0 +1,31 @@
+# jemdoc: menu{MENU}{research.html}
+
+== Research interests
+My research interests are physical processes of planets, stars and disks. For example, how planets and stars form and evolve, how planetary and stellar magnetic fields are generated and evolve, how tidal waves in binary system propagate and dissipate, and why protoplanetary and black hole disks become unstable, etc. To understand these phenomena, knowledges of orbital dynamics, thermodynamics, fluid dynamics and electrodynamics are needed, and mathematical models are built and studied by means of order-of-magnitude estimations and paper-and-pencil calculations with a little numerical computations. Below are some objects that I study. From left to right: Earth's magnetic fields, Jupiter's red spot, stellar interior, tides in binary stars, and accretion disk.
+~~~
+{}{img_left}{research.jpg}{research}{1313px}{200px}{}
+~~~
+
+== Publication list
+#- Wei, X. and Lin, D. N. C. (2020): Evolution of gas giant planets' magnetic field. under review.
+- Wei, X. (2020): [https://doi.org/10.3847/1538-4357/aba8f4 Erratum: "Wave Reflection and Transmission at the Interface of Convective and Stably Stratified Regions in a Rotating Star or Planet"]. /Astrophysical Journal/, 899: 88.
+- Wei, X. (2020): [https://doi.org/10.1080/03091929.2020.1797712 On the evolution of global ocean tides]. /Geophysical and Astrophysical Fluid Dynamics/, 115: 2.
+- Wei, X. (2020): [https://doi.org/10.3847/1538-4357/ab66b5 Wave reflection and transmission at the interface of convective and stably stratified regions in a rotating star or planet]. /Astrophysical Journal/, 890: 20
+- Wei, X. (2019): [https://doi.org/10.1093/mnras/stz187 Surface tide on a rapidly rotating body]. /Monthly Notices of the Royal Astronomical Society/, 484: 3017-3021.
+- Wei, X. (2018): [https://doi.org/10.3847/2041-8213/aab08a Dynamo induced by time-periodic force]. /Astrophysical Journal Letters/, 855: L7.
+- Wei, X. (2018): [https://doi.org/10.3847/1538-4357/aaa54d The magnetic effect on dynamical tide in rapidly rotating astronomical objects]. /Astrophysical Journal/, 854: 34.
+- Wei, X. (2016): [http://dx.doi.org/10.3847/0004-637X/828/1/30 Calculating rotating hydrodynamic and magnetohydrodynamics waves to understand magnetic effects on dynamical tides]. /Astrophysical Journal/, 828: 30.
+- Wei, X. (2016): [http://dx.doi.org/10.3847/0004-637X/827/2/123 The combined effect of precession and convection on dynamo action]. /Astrophysical Journal/, 827: 123.
+- Wei, X. (2016): [http://dx.doi.org/10.1017/jfm.2016.267 Linear and nonlinear responses to harmonic force in rotating flow]. /Journal of Fluid Mechanics/, 796: 306-317.
+- Wei, X. (2016): [http://dx.doi.org/10.1007/s00707-016-1632-3 Decay of isotropic flow and anisotropic flow with rotation or magnetic field or both in a weakly nonlinear regime]. /Acta Mechanica/, 227: 2403-2413.
+- Wei, X., Ji, H. and Goodman, J., et. al. (2016): [http://dx.doi.org/10.1103/PhysRevE.94.063107 Numerical simulations of the Princeton magneto-rotational instability experiment with conducting axial boundaries]. /Physical Review E/, 94: 063107.
+- Wei, X. and Goodman, J. (2015): [http://dx.doi.org/10.1088/0004-637X/806/1/50 On obliquely magnetized and differentially rotating stars]. /Astrophysical Journal/, 806: 50.
+- Wei, X. (2014): [http://dx.doi.org/10.1080/03091929.2014.944517 Kinematic dynamo induced by helical waves]. /Geophysical and Astrophysical Fluid Dynamics/, 109: 159-167.
+- Wei, X., Arlt, R. and Tilgner, A. (2014): [http://dx.doi.org/10.1016/j.pepi.2014.03.004 A simplified model of collision-driven dynamo action in small bodies]. /Physics of the Earth and Planetary Interiors/, 231: 30-38.
+- Wei, X. (2013): [http://dx.doi.org/10.1080/03091929.2013.837902 Local analysis of the magnetic instability in rotating magneto-hydrodynamics with the short-wavelength approximation]. /Geophysical and Astrophysical Fluid Dynamics/, 108: 213-221.
+- Wei, X. and Tilgner, A. (2013): [http://dx.doi.org/10.1017/jfm.2013.68 Stratified precessional flow in spherical geometry]. /Journal of Fluid Mechanics/, 718: R2.
+- Hollerbach, R., Wei, X., Noir, J. and Jackson, A. (2012): [http://dx.doi.org/10.1017/jfm.2013.195 Electromagnetically driven flows in a rapidly rotating spherical shell]. /Journal of Fluid Mechanics/, 725: 428-445.
+- Wei, X., Jackson, A. and Hollerbach, R. (2012): [http://dx.doi.org/10.1080/03091929.2011.620569 Kinematic dynamo action in spherical Couette flow]. /Geophysical and Astrophysical Fluid Dynamics/, 106: 681-700.
+- Wei, X. and Hollerbach, R. (2010): [http://dx.doi.org/10.1007/s00707-010-0299-4 Magnetic spherical Couette flow in linear combinations of axial and dipolar fields]. /Acta Mechanica/, 215: 1-8.
+- Wei, X. and Hollerbach, R. (2008): [http://dx.doi.org/10.1103/PhysRevE.78.026309 Instabilities of Shercliff and Stewartson layers in spherical Couette flow]. /Physical Review E/, 78: 026309.
+- Wei, X., Zhang, J. and Zhou, LX. (2004): [http://dx.doi.org/10.1080/1040779049025383 A new algebraic mass flux model for simulating turbulent mixing in swirling flow]. /Numerical Heat Transfer B/, 45: 283-300.
