@@ -31,7 +31,7 @@ Syllabus \n
 - Ch2 Inviscid fluid: Euler equation, Bernoulli's theorem, vorticity equation, Kelvin's theorem
 - Ch3 Viscous fluid: velocity decomposition, stress and strain, Navier-Stokes equation, vorticity equation, normalisation and Reynolds number, microscopic physics (Boltzmann equation)
 - Ch4 Applications: plane Poiseuille flow, plane Couette flow, Taylor-Couette flow, rotating flow (Taylor-Proudman theorem), accretion disk, stellar structure (Lane-Emden equation), boundary layer (Prandtl's equation and Blasius solution)
-- Ch5 Gas dynamics: thermodynamics, acoustic wave, shock, blast wave (Taylor-Sedov solution), spherical wind (Parker) and accretion (Bondi)
+- Ch5 Gas dynamics: thermodynamics, acoustic wave, shock, blast wave (Taylor and Sedov), galactic jet (Blandford and Rees), spherical wind (Parker) and accretion (Bondi)
 - Ch6 Waves: surface gravity wave, internal gravity wave, inertial wave, Kelvin\/Poincare\/Rossby wave
 - Ch7 Instabilities: gravitational instability, convective instability, Kelvin-Helmholtz instability, shear flow instability
 - Ch8 Turbulence: energy cascade, turbulent viscosity, scaling laws, turbulent transport in accretion disk
