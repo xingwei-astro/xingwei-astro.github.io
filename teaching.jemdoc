@@ -9,7 +9,7 @@
 
 == Information about lectures
 
-=== Classical Mechanics (second-year undergraduates)
+=== Classical Mechanics
 This course focuses on analytical mechanics. We start from the least action principle to derive Lagrange's equation and then derive the conservation laws from symmetry. Next we apply Lagrange's equation and conservation laws to some problems: Kepler's problem, oscillation problem, and rigid body motion. Finally we briefly introduce Hamilton's mechanics.
 
 Syllabus \n
@@ -23,15 +23,15 @@ Syllabus \n
 Reference book \n
 - Mechanics, Landau and Lifshitz, any version
 
-=== Astrophysical Fluid Dynamics (first-year graduates)
+=== Astrophysical Fluid Dynamics
 This course is an introduction to fluid dynamics and magnetohydrodynamics which are the important tools for astrophysics, e.g. accretion disk and stellar or planetary atmosphere and interior. \n
 
 Syllabus \n
-- Ch1 Introduction: streamline, material derivative and advection, vorticity and helicity, mass conservation
-- Ch2 Inviscid fluid: Euler equation, Bernoulli's theorem, vorticity equation, Kelvin's theorem, complex potential
+- Ch1 Introduction: streamline, material derivative and advection, vorticity, mass conservation
+- Ch2 Inviscid fluid: Euler equation, Bernoulli's theorem, vorticity equation, Kelvin's theorem
 - Ch3 Viscous fluid: velocity decomposition, stress and strain, Navier-Stokes equation, vorticity equation, normalisation and Reynolds number, microscopic physics (Boltzmann equation)
-- Ch4 Applications: plane Poiseuille flow, plane Couette flow, Taylor-Couette flow, rotating flow (Taylor-Proudman theorem), accretion disk (structure of thin disk, angular momentum transport, emmision, evolution of thin disk), stellar structure (Lane-Emden equation and polytrope), boundary layer (Prandtl's equation and Blasius solution)
-- Ch5 Gas dynamics: thermodynamics, acoustic wave, shock, blast wave, Bondi accretion
+- Ch4 Applications: plane Poiseuille flow, plane Couette flow, Taylor-Couette flow, rotating flow (Taylor-Proudman theorem), accretion disk, stellar structure (Lane-Emden equation), boundary layer (Prandtl's equation and Blasius solution)
+- Ch5 Gas dynamics: thermodynamics, acoustic wave, shock, blast wave, spherical wind and accretion
 - Ch6 Waves: surface gravity wave, internal gravity wave, inertial wave, Kelvin\/Poincare\/Rossby wave
 - Ch7 Instabilities: gravitational instability, convective instability, Kelvin-Helmholtz instability, shear flow instability
 - Ch8 Turbulence: energy cascade, turbulent viscosity, scaling laws, turbulent transport in accretion disk
@@ -44,6 +44,6 @@ Reference books \n
 - 恒星物理，黄润乾，中国科学技术出版社，2012 (Ch4 stellar strcuture)
 - 粘性流体力学，章梓雄和董曾南，清华大学出版社，1998 (Ch4 boundary layer)
 - Waves in Fluids, Lighthill, Cambridge University Press, 1978 (Ch6)
-- Geophysical Fluid Dynamics, Pedlosky, Springer, 1987 (Ch4 Kelvin\/Poincare\/Rossby wave)
+- Geophysical Fluid Dynamics, Pedlosky, Springer, 1987 (Ch6 Kelvin\/Poincare\/Rossby wave)
 - Hydrodynamic and Hydromagnetic Stability, Chandrasekhar, Oxford University Press, 1961 (Ch7)
 - An Introduction to Magnetohydrodynamics, Davidson, Cambridge University Press, 2001 (Ch9)
