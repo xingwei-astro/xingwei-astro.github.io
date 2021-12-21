@@ -79,11 +79,14 @@ equilibrium tide, tidal torque and dissipation (force\*arm or dissipation/freque
 components of tidal potential, orbital evolution equations (a, Omega, e, i), dynamical tide and tidal resonance
 - \[Tianqi Liu, Jiachen Zheng\] *Armitage 2009 review paper about protoplanetary disk* \n
 type I migration (timescale \~ 1/Mp), type II migration (timescale \~ 10^5 yr), corotation and Lindblad resonances, three torques, disk viscosity and alpha model
+- \[Sudo dong\] *his review paper about exoplanets* \n
 - \[Jiachen Zheng\] *Papaloizou and Lin 1995 review paper about protoplanetary disk* \n
 disk wind (bead-on-wire interpretation), MRI (mass-spring interpretation, alpha \~ 1), density wave (sound wave on Keplerian motion), convection (mixing length)
 - \[Qiang Hou\] *Miranda and Rafikov 2020 paper about radiation in protoplanetary disk* \n
 radiation model (cooling timescale tau), normal mode analysis, WKB analysis, two limits (Omega\*tau<10^-3 isothermal, Omega\*tau->infy adabatic), nonlinear shock heating, calculation of three torques
 - \[Hening Wu\] *Izidoro et al 2015 paper about orbital dynamics* \n
+- \[Mingkai Lin\] *his work about protoplanetary disk* \n
 - \[Yufeng Li\] *Zarka 2007 paper about star-planet radio emmision* \n
-- \[Fan Yang\] *his papers about observations* \n
+- \[Fan Yang\] *his papers about observations of planetary orbital decay and planetary atmosphere* \n
 - \[Xiaochen Zheng\] *her papers about planetary dynamics applied to galaxy* \n
+- \[Pinghui Huang\] *his new code about protoplanetary disk* \n
