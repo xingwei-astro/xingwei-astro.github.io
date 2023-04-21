@@ -30,7 +30,7 @@ Syllabus \n
 - Ch1 Introduction: streamline, material derivative and advection, vorticity, mass conservation
 - Ch2 Inviscid fluid: Euler equation, Bernoulli's theorem, vorticity equation, Kelvin's theorem
 - Ch3 Viscous fluid: velocity decomposition, stress and strain, Navier-Stokes equation, vorticity equation, normalisation and Reynolds number, microscopic physics (Boltzmann equation)
-- Ch4 Applications: plane Poiseuille flow, plane Couette flow, Taylor-Couette flow, rotating flow (Taylor-Proudman theorem), accretion disk, stellar structure (Lane-Emden equation), boundary layer (Prandtl's equation and Blasius solution)
+- Ch4 Applications: plane Poiseuille flow, plane Couette flow, Taylor-Couette flow, rotating flow (Taylor-Proudman theorem), stellar structure (Lane-Emden equation), accretion disk, tide, boundary layer (Prandtl's equation and Blasius solution)
 - Ch5 Gas dynamics: thermodynamics, acoustic wave, shock, blast wave (Taylor and Sedov), galactic jet (Blandford and Rees), spherical wind (Parker) and accretion (Bondi)
 - Ch6 Waves: surface gravity wave, internal gravity wave, inertial wave, Kelvin\/Poincare\/Rossby wave
 - Ch7 Instabilities: gravitational instability, rotating flow instability, convective instability, shear flow instability
@@ -42,6 +42,7 @@ Reference books \n
 - Fluid Mechanics, Landau and Lifshitz, any version (Ch3, Ch8)
 - The Physics of Fluids and Plasmas, Choudhuri, Cambridge University Press, 1998 (Ch3 microscopic physics)
 - Astrophysics of Planet Formation, Armitage, Cambridge University Press, 2020, (Ch4 accretion disk)
+- Tides in Astronomy and Astrophysics, Souchay et, al., Springer, 2013, (Ch4 tide)
 - 恒星物理，黄润乾，中国科学技术出版社，2012 (Ch4 stellar structure)
 - 粘性流体力学，章梓雄和董曾南，清华大学出版社，1998 (Ch4 boundary layer)
 - Waves in Fluids, Lighthill, Cambridge University Press, 1978 (Ch6 surface gravity wave)
