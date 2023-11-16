@@ -1,13 +1,13 @@
 # jemdoc: menu{MENU}{research.html}
 
 == Research interests
-My research interests are physical processes of planets, stars and disks. For example, how planet forms and its structure evolves, how planetary orbit evolves, how planetary and stellar magnetic fields are generated and evolve, how tidal waves propagate and dissipate in planetary or stellar interior, and how protoplanetary or black-hole disk forms and evolves, etc. To understand these phenomena, the knowledges of orbital dynamics, thermodynamics, fluid dynamics and electromagnetism are needed. The methods consist of order-of-magnitude estimations, and analytical, semi-analytical and numerical calculations.
+My research interests are physical processes of planets, stars and disks. For example, how planet forms and its structure evolves, how planetary orbit evolves, how planetary and stellar magnetic fields are generated and evolve, how tidal waves propagate and dissipate in planetary or stellar interior, and how protoplanetary or black-hole disk forms and evolves, etc. To understand these phenomena, knowledges of orbital dynamics, thermodynamics, fluid dynamics and electromagnetism are needed. Mathematical models are built and studied with order-of-magnitude estimations, paper-and-pencil calculations, and a little numerical computations. Below are some objects that I study.
 ~~~
 {}{img_left}{research.jpg}{research}{1313px}{200px}{}
 ~~~
 
 == Selected papers (\* denotes the paper with student or postdoc)
-#- Wei, X. (2022): [https://doi.org/10.1016/j.ascom.2022.100650 Construct a realistic stellar model with polytropic relation]. /Astronomy and Computing/, 41:100650.
+- Wei, X. (2022): [https://doi.org/10.1016/j.ascom.2022.100650 Construct a realistic stellar model with polytropic relation]. /Astronomy and Computing/, 41:100650.
 
 - Wei, X. (2022): [https://doi.org/10.1051/0004-6361/202243486 Magnetic effect on equilibrium tides and its influence on the orbital evolution of binary systems]. /Astronomy and Astrophysics/, 664: A10.
 
