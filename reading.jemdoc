@@ -136,9 +136,8 @@ radiation model (cooling timescale tau), normal mode analysis, WKB analysis, two
 * Fall 2024: paper discussions and book reading*
 - \[Yuru Xu] *Goldreich and Nicholson 1989 about tidal dissipation of g mode* \n
 - \[Jiachen Zheng] *Doug Lin 1986 and 1994 about infall induced disk heating* \n
-- \[Zehao Su] *Lin-Shu 1964 about density wave, Goodman 1993 about parametric instability, Minkai Lin 2014 about interaction of GI and MRI* \n
-- \[Changzhi Lu] *Ahui et al 2021 about tidal and magnetic torques on orbital evolution* \n
-- \[Yu Hu] *Tamayo et al 2020 about machine learning for dynamical stablity* \n
+- \[Zehao Su] *Lin-Shu 1964 about density wave, Youdin \& Goodman 2005 about streaming instability, Minkai Lin 2014 about interaction of GI and MRI* \n
+- \[Tianqi Liu] *Tamayo et al 2020 about machine learning for dynamical stablity* \n
 - \[Yuru Xu] *introduce MESA package GYRE and the spectral code DEDULAS* \n
 - *Dynamics of planetary systems by Tremaine* \n
 - \[Haonan Quan] *ch1 two body problem* \n
@@ -148,3 +147,10 @@ radiation model (cooling timescale tau), normal mode analysis, WKB analysis, two
 - \[Changzhi Lu] *ch7 spin-orbit resonance* \n
 - \[Yuru Xu] *ch8 tide* \n
 - \[Jiachen Zheng] *ch9 crossing orbit* \n
+
+* Spring 2025: paper discussions and book reading*
+- \[Shaoqi Guo] *Hay 2016 about tidal dissipation of Titan's subocean and Matsuyama 2018 about tidal heating in icy moons* \n
+- \[Haonan Quan] *Lai 2016 about planet 9 and Poon 2024 about exomoon* \n
+- \[Yuru Xu] *Lai 2021 about Jupiter's Love number and Auclair-Desrotour 2024 about anisotropic tidal dissipation* \n
+- \[Zehao Su] *Goodman 1993 about parametric instability* \n
+- \[Yining Wang] *Armitage 2024 review about planet formation* \n
