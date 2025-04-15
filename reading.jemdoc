@@ -136,9 +136,9 @@ radiation model (cooling timescale tau), normal mode analysis, WKB analysis, two
 * Fall 2024: paper discussions and book reading*
 - \[Yuru Xu] *Goldreich and Nicholson 1989 about tidal dissipation of g mode* \n
 - \[Jiachen Zheng] *Doug Lin 1986 and 1994 about infall induced disk heating* \n
-- \[Zehao Su] *Lin-Shu 1964 about density wave, Youdin \& Goodman 2005 about streaming instability, Minkai Lin 2014 about interaction of GI and MRI* \n
+- \[Zehao Su] *Lin-Shu 1964 about density wave, Youdin \& Goodman 2005 about streaming instability* \n
 - \[Tianqi Liu] *Tamayo et al 2020 about machine learning for dynamical stablity* \n
-- \[Yuru Xu] *introduce MESA package GYRE and the spectral code DEDULAS* \n
+- \[Yuru Xu] *MESA package GYRE, spectral code DEDULAS* \n
 - *Dynamics of planetary systems by Tremaine* \n
 - \[Haonan Quan] *ch1 two body problem* \n
 - \[Tianqi Liu] *ch3 three body problem* \n
@@ -153,7 +153,7 @@ radiation model (cooling timescale tau), normal mode analysis, WKB analysis, two
 - \[Haonan Quan] *Lai 2016 about planet 9, Poon 2024 about exomoon, Marchant 2025 about binary evolution* \n
 - \[Yuru Xu] *Lai 2021 about Jupiter's Love number* \n
 - \[Jiamei Yang] *Fujii 2020 about moon formation, Yang \& Li 2025 about interference of density waves* \n
-- \[Zehao Su] *Goodman 1993 about parametric instability, Klahr 2014 about horizontal convection* \n
+- \[Zehao Su] *Minkai Lin 2014 about interaction of GI and MRI, Klahr 2014 about horizontal convection* \n
 - \[Yining Wang] *Armitage 2024 review about planet formation* \n
 - \[Changzhi Lu] *Giacalone 2024 about planet around A-type star* \n
 - \[Tianqi Liu] *Sandnes 2024 about dilute core in Jupiter* \n
