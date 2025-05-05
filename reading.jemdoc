@@ -136,9 +136,9 @@ radiation model (cooling timescale tau), normal mode analysis, WKB analysis, two
 * Fall 2024: paper discussions and book reading*
 - \[Yuru Xu] *Goldreich and Nicholson 1989 about tidal dissipation of g mode* \n
 - \[Jiachen Zheng] *Doug Lin 1986 and 1994 about infall induced disk heating* \n
-- \[Zehao Su] *Lin-Shu 1964 about density wave, Youdin \& Goodman 2005 about streaming instability, Minkai Lin 2014 about interaction of GI and MRI* \n
+- \[Zehao Su] *Lin-Shu 1964 about density wave, Youdin \& Goodman 2005 about streaming instability* \n
 - \[Tianqi Liu] *Tamayo et al 2020 about machine learning for dynamical stablity* \n
-- \[Yuru Xu] *introduce MESA package GYRE and the spectral code DEDULAS* \n
+- \[Yuru Xu] *MESA package GYRE, spectral code DEDULAS* \n
 - *Dynamics of planetary systems by Tremaine* \n
 - \[Haonan Quan] *ch1 two body problem* \n
 - \[Tianqi Liu] *ch3 three body problem* \n
@@ -149,16 +149,15 @@ radiation model (cooling timescale tau), normal mode analysis, WKB analysis, two
 - \[Jiachen Zheng] *ch9 crossing orbit* \n
 
 * Spring 2025: paper discussions and book reading*
-- \[Shaoqi Guo] *Hay 2016 about tidal dissipation of Titan's subocean, Matsuyama 2018 about tidal heating in icy moons, and Hay 2022 about tidal dissipation in Europa and Ganymede* \n
-- \[Yuru Xu] *Lai 2021 about Jupiter's Love number, Ogilvie 2007 about tidal dissipation in star* \n
-- \[Zehao Su] *Goodman 1993 about parametric instability and Klahr 2014 about horizontal convection* \n
-- \[Jiachen Zheng] *Gong et al 2019 about chondrule condensation* \n
-- \[Jiamei Yang] *Fujii 2020 about moon formation* \n
-- \[Haonan Quan] *Lai 2016 about planet 9 and Poon 2024 about exomoon* \n
+- \[Shaoqi Guo] *Hay 2016 about tidal dissipation of Titan's subocean, Matsuyama 2018 about tidal heating in icy moons, Hay 2022 about tidal dissipation in Europa and Ganymede, Lithwick 2025 about Enceladus’s Tidal Heating* \n
+- \[Haonan Quan] *Lai 2016 about planet 9, Poon 2024 about exomoon, Marchant 2025 about binary evolution, Lubow and Ogilvie 2025 about Laplace surface of gas disk* \n
+- \[Yuru Xu] *Lai 2021 about Jupiter's Love number, Aerts 2024 about macroturbulence* \n
+- \[Jiamei Yang] *Fujii 2020 about moon formation, Yang \& Li 2025 about interference of density waves* \n
+- \[Zehao Su] *Minkai Lin 2014 about interaction of GI and MRI, Klahr 2014 about horizontal convection, Gacic 2025 about eccentric circumbinary disk* \n
 - \[Yining Wang] *Armitage 2024 review about planet formation* \n
-- \[Changzhi Lu] *Giacalone 2024 about planet around A-type star* \n
+- \[Changzhi Lu] *Ahuir 2021 about dynamical tide in radiative zone, Ahuir \& Strugarek 2021 about tidal and magnetic evolution, Giacalone 2024 about planet around A-type star* \n
 - \[Tianqi Liu] *Sandnes 2024 about dilute core in Jupiter* \n
-- book "the physical universe" by Frank Shu \n
+- *book "the physical universe" by Frank Shu* \n
 - \[Tianqi Liu] *ch2* \n
 - \[Haonan Quan] *ch3* \n
 - \[Zehao Su] *ch4, ch5* \n
